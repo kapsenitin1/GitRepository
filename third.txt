@@ -1,3 +1,0 @@
-This is my third file.
-Git looks interesting.
-It is good to learn git if you want to be a DevOps eng.
