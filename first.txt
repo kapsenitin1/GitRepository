@@ -1,4 +1,4 @@
 Adding first line
-I am going to check in this file in git
 It is fun to learn git.
+Removed one line from this file
 Added new line in the bottom
