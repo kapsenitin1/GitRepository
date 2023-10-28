@@ -1,4 +1,4 @@
-This is my first file
+Adding first line
 I am going to check in this file in git
 It is fun to learn git.
 Added new line in the bottom
