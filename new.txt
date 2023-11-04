@@ -6,3 +6,4 @@ We are going to see diff command
 Included one more line
 Add new line
 Adding new line at the bottom
+added 1st line
